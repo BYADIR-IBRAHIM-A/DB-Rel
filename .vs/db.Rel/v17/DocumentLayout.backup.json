@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Barefee\\Desktop\\projects\\db.Rel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A24B37C8-087C-46C3-88F1-98CBD52E7D0A}|db.Rel\\db.Rel.csproj|c:\\users\\barefee\\desktop\\projects\\db.rel\\db.rel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24B37C8-087C-46C3-88F1-98CBD52E7D0A}|db.Rel\\db.Rel.csproj|solutionrelative:db.rel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A24B37C8-087C-46C3-88F1-98CBD52E7D0A}|db.Rel\\db.Rel.csproj|c:\\users\\barefee\\desktop\\projects\\db.rel\\db.rel\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A24B37C8-087C-46C3-88F1-98CBD52E7D0A}|db.Rel\\db.Rel.csproj|solutionrelative:db.rel\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Barefee\\Desktop\\projects\\db.Rel\\db.Rel\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "db.Rel\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Barefee\\Desktop\\projects\\db.Rel\\db.Rel\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "db.Rel\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:09:59.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\Barefee\\Desktop\\projects\\db.Rel\\db.Rel\\Models\\Post.cs",
               "RelativeDocumentMoniker": "db.Rel\\Models\\Post.cs",
               "ToolTip": "C:\\Users\\Barefee\\Desktop\\projects\\db.Rel\\db.Rel\\Models\\Post.cs",
               "RelativeToolTip": "db.Rel\\Models\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T05:48:30.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\Barefee\\Desktop\\projects\\db.Rel\\db.Rel\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "db.Rel\\Models\\Blog.cs",
@@ -55,21 +72,19 @@
               "RelativeToolTip": "db.Rel\\Models\\Blog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T05:48:07.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T05:48:07.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "db.Rel",
+              "DocumentIndex": 3,
+              "Title": "db.Rel.csproj",
               "DocumentMoniker": "C:\\Users\\Barefee\\Desktop\\projects\\db.Rel\\db.Rel\\db.Rel.csproj",
               "RelativeDocumentMoniker": "db.Rel\\db.Rel.csproj",
               "ToolTip": "C:\\Users\\Barefee\\Desktop\\projects\\db.Rel\\db.Rel\\db.Rel.csproj",
               "RelativeToolTip": "db.Rel\\db.Rel.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-24T05:46:35.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T05:46:35.444Z"
             }
           ]
         }

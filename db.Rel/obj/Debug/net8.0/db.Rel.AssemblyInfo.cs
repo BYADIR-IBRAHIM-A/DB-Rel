@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("db.Rel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8019e3961dbade219205f7281f1cf28358c4f6ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feafe1dd060cd799a7a03a018ebe03aeb4ed305a")]
 [assembly: System.Reflection.AssemblyProductAttribute("db.Rel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("db.Rel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
