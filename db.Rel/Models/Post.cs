@@ -2,11 +2,10 @@
 
 namespace db.Rel.Models
 {
-    public class Post : Controller
+    public class Post
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        public int Id { get; set; }
+        public int BlogId { get; set; }
+        public Blog Blog { get; set; }
     }
 }

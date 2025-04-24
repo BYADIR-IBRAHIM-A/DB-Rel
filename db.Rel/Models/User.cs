@@ -2,11 +2,9 @@
 
 namespace db.Rel.Models
 {
-    public class User : Controller
+    public class User
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        public int Id { get; set; }
+        public Profile Profile { get; set; }
     }
 }
